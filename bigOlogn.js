@@ -1,0 +1,1 @@
+//divide and conqueor rule. We divide the problem into 2, find a match, if not found we keep dividing. This is just above constant time. O(nlogn) is the most efficient time for sorting algos
